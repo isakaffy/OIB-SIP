@@ -22,13 +22,6 @@ To build a machine learning model that can accurately *classify iris flowers* in
 - *Classes:* 3 (Setosa, Versicolor, Virginica)
 
 The dataset is included in *scikit-learn* and is a standard benchmark for classification problems.
-iris-flower-classification/
-│
-├── iris_classification.ipynb       # Main Jupyter notebook
-├── iris_dataset.csv                # Dataset (optional if not using sklearn’s load function)
-├── images/                         # Visualizations and plots
-└── README.md                       # Project documentation
-
 ---
 
 ## 🛠️ Tools & Libraries Used
@@ -79,3 +72,10 @@ All models showed high accuracy, especially on this well-structured dataset.
 ---
 
 ## 📁 Project Structure
+The dataset is included in *scikit-learn* and is a standard benchmark for classification problems.
+iris-flower-classification/
+│
+├── iris_classification.ipynb       # Main Jupyter notebook
+├── iris_dataset.csv                # Dataset (optional if not using sklearn’s load function)
+├── images/                         # Visualizations and plots
+└── README.md                       # Project documentation
